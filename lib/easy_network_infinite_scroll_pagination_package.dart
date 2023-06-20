@@ -124,7 +124,7 @@ class _EasyNetworkInfiniteScrollPaginationState extends State<EasyNetworkInfinit
 
   @override
   void initState() {
-    _numberOfPostsPerRequest = widget.numberOfPostsPerRequest ?? 15;
+    _numberOfPostsPerRequest = widget.numberOfPostsPerRequest;
     _pagingController =
         PagingController(firstPageKey: widget.initialPageNumber ?? 1);
     _pagingController.addPageRequestListener((pageKey) {

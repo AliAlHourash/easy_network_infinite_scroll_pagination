@@ -1,5 +1,5 @@
 name: easy_network_infinite_scroll_pagination_package
-description: A new Flutter project.
+description: An easy Flutter package that enables data pagination from a network source.
 version: 0.0.1
 author: Ali Al-Hourash<aliyahia04694@gmail.com>
 homepage: https://github.com/AliAlHourash/easy_network_infinite_scroll_pagination

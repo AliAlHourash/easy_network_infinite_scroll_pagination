@@ -12,7 +12,7 @@ class EasyNetworkInfiniteScrollPagination extends StatefulWidget {
   /// data: (d) {
   /// print("data=====>>>  ${d}");
   /// },
-  /// url: "http://ymp-api-test.vns.agency/api/services",
+  /// url: ""http://xxx/api/services"",
   /// child: (r) {
   ///  return Container(
   ///  margin: const EdgeInsets.all(8),
